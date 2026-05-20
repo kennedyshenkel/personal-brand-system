@@ -89,7 +89,7 @@ If the user included target details in `$ARGUMENTS` (e.g., "repurpose for Instag
 
 **To LinkedIn**: Professional register rules apply. Load `linkedin-playbook-reference.md` for current platform rules.
 - Hook: compress the source piece's core insight into a one-line hook under 10 words
-- Body: 800-1,300 characters for text posts. Line breaks every 1-3 sentences.
+- Body: 800-2,000 characters for text posts. Quick takes lean shorter (800-1,300); research-backed analysis can use the full range. Line breaks every 1-3 sentences.
 - No external links in post body. Move links to First Comment section.
 - Hashtags: 3-5 at bottom (1 broad + 2-3 niche)
 - CTA: P.S. or single question

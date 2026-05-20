@@ -14,6 +14,8 @@ This file is not user-modified. It ships as a hardcoded reference.
 
 **Banned AI filler**: "It's important to note that," "A testament to," "Navigate the complexities of," "Unlock the potential of," "Paving the way," "From inception to execution," "In the realm of," "Shedding light on," "Let's dive in," "Based on the information provided," "Game-changer"
 
+**Banned transitions**: "The kicker:", "Here's the thing:", "Here's the kicker:", "The twist:", "Plot twist:", "But here's the catch:", "The bottom line:", "Here's what's interesting:" — formulaic dramatic-reveal phrases that manufacture suspense. Let the data land on its own.
+
 **Banned vendor-speak**: "Synergy," "end-to-end," "turnkey," "best-in-class," "seamless," "unlock potential," "drive value," "holistic" (structurally empty, cannot be made precise)
 
 **Banned minimizers**: "Simply," "just" (as minimizer), "easily," "in no time"
@@ -91,12 +93,12 @@ Any contrast emerging organically from argument with specific rhetorical purpose
 
 ### Banned
 
-- "It's not about X, it's about Y" as standalone opener/hook
+- "It's not about X, it's about Y" / "It was never about X. It was Y." — the tidy-binary formula in any tense. Banned in all positions (opener, mid-post, closer), especially when it collapses a complex argument into a neat substitution. The test: does the contrast earn its simplification through preceding argument, or is it a template?
 - "X isn't just Y, it's Z" (the "isn't just... it's..." escalation formula)
 - "While X may seem like Y, the reality is Z"
 - "Sure, X. But what about Y?" (faux-conversational pivot)
 - "Forget X. Think Y instead." (dismissive imperative)
-- Any contrastive structure as opening line before contrast earned through argument
+- Any contrastive structure used as a formula in any position before the contrast is earned through argument
 
 **The test**: Does the contrast emerge from the argument or is it imposed as a formula? Real rhetorical work = permitted. Structural template = banned.
 

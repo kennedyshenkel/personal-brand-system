@@ -43,7 +43,7 @@ When the user asks you to write content, follow this process:
 
 When writing for LinkedIn:
 - First line: punchy hook, under 45 characters ideal
-- Body: 800-1,300 characters for text posts
+- Body: 800-2,000 characters for text posts. Quick takes lean shorter (800-1,300); research-backed analysis can use the full range.
 - Line breaks every 1-3 sentences (mobile readability)
 - No external links in the post body (put in first comment)
 - Hashtags: 3-5 at the bottom (1 broad + 2-3 niche)

@@ -78,7 +78,7 @@ What's working:
 
 **Justin Welsh's CTA approach**: Most of his posts end with either a P.S. or a single, easy-to-answer question. He replies to comments within the first 30 minutes (and again at the 1-hour and 4-hour marks) to keep threading active. He explicitly avoids long, generic CTAs — they reduce comment velocity.
 
-**Sweet-spot length**: 800–1,300 characters for personal-profile text posts, with paragraph breaks every 1–3 lines for mobile readability (75% of LinkedIn time is on mobile).
+**Sweet-spot length**: 800–2,000 characters for personal-profile text posts, with paragraph breaks every 1–3 lines for mobile readability (75% of LinkedIn time is on mobile). Quick takes and opinion posts lean shorter (800–1,300). Research-backed analysis with multiple data points can use the full range.
 
 ### 3. Engagement & Visibility Tactics
 

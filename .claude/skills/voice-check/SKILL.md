@@ -92,10 +92,11 @@ Load `linkedin-playbook-reference.md` for current benchmarks.
 
 Check:
 - **Hook**: Is the first line under 10 words? Does it appear before the "see more" cutoff (first 3 lines)? Is it a strong hook type (curiosity gap, contrarian, specific number, stakes, counterintuitive, audience POV)?
-- **Post length**: Is the post body within 800-1,300 characters? (Flag if significantly over or under.)
+- **Post length**: Is the post body within 800-2,000 characters? Quick takes should be 800-1,300; research-backed analysis can use up to 2,000. (Flag if significantly over or under.)
 - **Line breaks**: Are there line breaks every 1-3 sentences? (Mobile readability.)
 - **Reading level**: Is the text at a 6th-9th grade reading level? (Flag overly complex sentence structures.)
 - **Links**: Are there any URLs in the Post Body section? (Flag. Should be in First Comment.)
+- **Source names**: Are researchers, institutions, or publications named in the Post Body section? (Flag. Attribution should be in First Comment only.)
 - **Hashtags**: Are hashtags at the bottom? Are there 3-5? Are any in the hook? (Flag if >5 or if in hook.)
 - **Engagement bait**: Does the post contain engagement bait phrases ("Comment YES if...", "Like if you agree", "Share if...", "Tag someone who...")? (Flag. Actively penalized by algorithm.)
 - **CTA**: Is the CTA a P.S. or single question? (Flag long, generic CTAs.)

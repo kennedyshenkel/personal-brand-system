@@ -48,7 +48,7 @@ When a LinkedIn tactic conflicts with the voice style reference, the voice wins.
 
 - **Hook (first line)**: aim for punchy and short, under 45 characters ideal. This is a structural target, not a rigid character count.
 - **"See more" window (first 3 lines)**: your full value proposition must land before the cutoff. The hook grabs attention; the next two lines validate the click.
-- **Body**: 800-1,300 characters for text posts.
+- **Body**: 800-2,000 characters for text posts. Quick takes and opinion posts lean shorter (800-1,300). Research-backed analysis with multiple data points can use the full range.
 - **Paragraphs and white space**: generous line breaks every 1-3 sentences for mobile readability (75% of LinkedIn usage is mobile). Default to short paragraphs, but maintain sentence length variation (short, medium, long — never three consecutive same-length sentences). "One core idea" means one thesis per post, not one dimension. Connecting a personal experience to a broader industry pattern IS one idea executed well.
 - **Vocabulary and complexity**: use accessible vocabulary (no jargon without explanation, no academic sentence density), but do not sacrifice argument complexity or structural sophistication to hit a readability score. Simple words, complex ideas.
 - **Links**: no external links in post body. Use first comment or write-then-edit method (publish without link, edit link in after 60-120 min).

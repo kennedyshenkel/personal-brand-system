@@ -94,10 +94,12 @@ When the user requests changes:
 
 When the research brief includes creator/thought leader sources that should be referenced in the piece:
 
-**Inline attribution**: Weave the creator's name and a link to their content naturally into the text. The reference should feel like entering a conversation, not citing a paper.
+**Inline attribution (blogs, essays, long-form)**: Weave the creator's name and a link to their content naturally into the text. The reference should feel like entering a conversation, not citing a paper.
 - Agreeing: "As [Name] put it in [a recent post](content-link)..."
 - Extending: "[Name] made the case that X ([link](content-link)). The part that's missing..."
 - Challenging: "[Name] argued X ([link](content-link)). The data tells a different story..."
+
+**LinkedIn exception**: Do not name sources, researchers, or publications in the Post Body. Present data and claims as direct assertions ("30,000 employees tracked" not "MIT tracked 30,000 employees"). All source names and links go in the First Comment section. This keeps the post body conversational while giving credit where LinkedIn readers expect it.
 
 **Reference & Tags section**: At the bottom of every draft that references other creators, include:
 
@@ -131,10 +133,11 @@ Load `linkedin-playbook-reference.md` before writing.
 - Never start with a banned contrastive pattern (already covered in Inline Critical Rules)
 
 #### Post Body (text post format)
-- Target 800-1,300 characters
+- Target 800-2,000 characters. Quick takes and opinions lean shorter (800-1,300). Research-backed analysis with multiple data points can use the full range.
 - Line break every 1-3 sentences (mobile readability)
 - Accessible vocabulary, but don't sacrifice argument complexity to hit a readability score. Simple words, complex ideas.
 - No external links in the post body
+- No source names in the post body (no researchers, institutions, or publications named inline). Present data directly. All attribution goes in First Comment.
 - Hashtags: 3-5 at the bottom, after the CTA. Mix 1 broad + 2-3 niche. Never in the hook.
 - CTA: P.S., answerable question, imperative, or compressed insight that invites response. Never a long generic CTA. Closing must add energy or agency, not restate the post.
 
@@ -147,7 +150,7 @@ LinkedIn drafts use three clearly delineated sections in the file:
 [The actual post text. No URLs. This is what gets pasted into LinkedIn.]
 
 ## First Comment
-[Source links, CTA links, resource links. Formatted for copy-paste into LinkedIn's first comment. Include a pointer like "Link in comments" in the Post Body if referencing these.]
+[Source attribution and links. Name every source referenced in the post: researcher, institution, publication, year, and URL. Also include CTA links and resource links. Formatted for copy-paste.]
 
 ## References & Tags
 [Creator tags with profile URLs. Content source links. Not published. Exists so the brand owner can tag people and reference sources when posting.]
