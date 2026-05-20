@@ -20,6 +20,10 @@ This file is not user-modified. It ships as a hardcoded reference.
 
 **Banned minimizers**: "Simply," "just" (as minimizer), "easily," "in no time"
 
+**Banned manufactured suspense**: Sentences that tell the reader how to react to upcoming information rather than delivering information that earns the reaction. "The findings are worse than you think." "The results may shock you." "But that's not even the real problem." "What happened next changed everything." "Here's what nobody's talking about." "Let that sink in." "Read that again." "This is the part that matters." "Brace yourself." "The data tells a different story." The test: delete the sentence. If the next sentence still lands without it, cut it.
+
+**Banned telegraphic constructions**: Using a colon to introduce a finding after a study descriptor or sample size, replacing what should be a verb. "30,000 employees studied: women outperform..." / "A meta-analysis of 69 studies: leader stereotypes are masculine." This reads as a presentation slide, not writing. Write full sentences with subjects and verbs. Embed data in sentence structure. The test: does the colon replace a verb? If yes, rewrite as a full sentence. Also banned: "Here's the [noun]." / "Here is the [noun]." as sentence openers that announce something without delivering it. Exception: "Here is what I [verb]..." introducing the writer's own first-person position. Not banned: colons introducing direct quotes, lists after complete sentences, or standard punctuation in complete sentences.
+
 **Banned formatting**: Em dashes and en dashes. Never. Use spaced periods (". . ."), commas, colons, parentheses, or restructure into two sentences.
 
 **Banned structural patterns**: Formulaic intro-body-conclusion where conclusion restates intro. "Symmetrical" treatment where every section gets equal depth. Content swappable with a dozen other sources.
@@ -152,6 +156,9 @@ Examples:
 - Any banned contrastive structures?
 - Any em dashes or en dashes?
 - Any "In today's..." opener or "In conclusion..." closer?
+- Any manufactured suspense (sentences promising a feeling rather than delivering information)?
+- Any telegraphic colons (colon replacing a verb after a study descriptor or sample size)?
+- Any "Here's the [noun]" openers that announce without delivering?
 - Bullets varied in structure/length/depth?
 - Three consecutive same-length sentences?
 - Passive voice where active possible?
