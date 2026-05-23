@@ -33,7 +33,7 @@
 
 **9. B2B thought leadership has measurable revenue impact.** The 2025 Edelman–LinkedIn B2B Thought Leadership Impact Report shows **79% of hidden decision-makers are more likely to advocate for a vendor in the RFP process** after consistent high-quality TL; **95%** are more receptive to sales/marketing outreach as a result; **73%** of hidden buyers say TL is more effective than conventional marketing materials at demonstrating value. Critically, **86% of hidden decision-makers prefer content that "offers provocative ideas that challenge my assumptions"** over content that validates existing thinking. Joe Kingsbury (Global Chair, Edelman Business Marketing) and Jann Schwarz (LinkedIn) write in the report's executive summary: *"Our research confirms the full-funnel, business-generating impact of strong thought leadership and the tangible risks of publishing low-quality content."*
 
-**10. The platform increasingly rewards individuals over company pages.** Organic company-page reach has cratered to ~1–2% of followers; personal profiles now dominate the feed. For your B2B SaaS company, your personal brand is more valuable than your company page is — and LinkedIn has explicitly leaned into this with Thought Leader Ads (which boost employee posts using the company ad budget).
+**10. The platform increasingly rewards individuals over company pages.** Organic company-page reach has cratered to ~1–2% of followers; personal profiles now dominate the feed. Your personal brand is more valuable than your company page — and LinkedIn has explicitly leaned into this with Thought Leader Ads (which boost employee posts using the company ad budget).
 
 ---
 
@@ -119,7 +119,7 @@ What's working:
 - 6–10/week → +5,001 impressions/post and +0.76 pts
 - 11+/week → +16,946 impressions/post and +1.40 pts (3x more engagements)
 
-**LinkedIn does NOT cap your reach for posting more.** But ConnectSafely's 2026 analysis of 500+ accounts found per-post engagement drops 18–32% past 5 posts/week, and unless you have a content system, quality dilutes faster than reach grows. **For a marketing director with a day job: 3–4 posts/week is realistic and high-ROI**. Spread them out (Tue/Wed/Thu/Fri), don't batch into one day — LinkedIn typically only promotes one post per account per 24-hour window.
+**LinkedIn does NOT cap your reach for posting more.** But ConnectSafely's 2026 analysis of 500+ accounts found per-post engagement drops 18–32% past 5 posts/week, and unless you have a content system, quality dilutes faster than reach grows. **For someone with a day job: 3–4 posts/week is realistic and high-ROI**. Spread them out (Tue/Wed/Thu/Fri), don't batch into one day — LinkedIn typically only promotes one post per account per 24-hour window.
 
 **Best times** (2026 data, US Eastern):
 - **Best days**: Tuesday, Wednesday, Thursday (Wednesday strongest in Buffer's 2026 data; Tuesday strongest in Sprout Social's 2026 data). Avoid Mondays before 10 AM and weekends.

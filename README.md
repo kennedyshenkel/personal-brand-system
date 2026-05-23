@@ -118,10 +118,6 @@ Run `/refine`. It reads what you've written, compares it to your current voice r
 **"What are the anti-slop rules?"**
 A hardcoded set of rules that prevent writing from sounding AI-generated: banned phrases ("delve," "In today's..."), banned formatting (em dashes), banned structural patterns (intro-body-conclusion that restates intro), and quality standards (active voice, evidence-backed claims, sentence length variation). These apply to all content and can't be overridden.
 
-## Credits
-
-Built by Kennedy Shenkel.
-
 ## License
 
 MIT

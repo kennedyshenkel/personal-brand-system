@@ -101,7 +101,7 @@ Six structural patterns to rotate. The examples below show the pattern, not a ch
 
 ## 5. Cadence & Timing
 
-- **Frequency**: 3-4 posts/week is the realistic, high-ROI sweet spot for a marketing director with a day job.
+- **Frequency**: 3-4 posts/week is the realistic, high-ROI sweet spot for someone with a day job.
 - **Days**: Tue, Wed, Thu + optional Fri. Avoid Mondays before 10 AM and weekends.
 - **Never post twice in 24 hours.** LinkedIn typically promotes only one post per account per 24-hour window.
 - **Best times (US Eastern):**
